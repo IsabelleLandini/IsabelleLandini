@@ -63,6 +63,7 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 ## ⚡ Tecnologias & Ferramentas
 
 <div align="center">
+  
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -73,6 +74,7 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 </div>
 
 <div align="center">
+  
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,6 +86,7 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 </div>
 
 <div align="center">
+  
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
