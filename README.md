@@ -155,6 +155,7 @@ API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker
 ---
 
 <div align="center">
+  
 ## 📫 Conecte-se Comigo
 
 <a href="https://www.linkedin.com/in/isabellelandini/">
@@ -174,6 +175,8 @@ API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker
 
 *"Não estou apenas aprendendo programação. Estou construindo uma nova carreira, um commit por vez." ✨*
 
+![](https://komarev.com/ghpvc/?username=IsabelleLandini&color=blueviolet&style=for-the-badge)
+
 </div>
 
-![](https://komarev.com/ghpvc/?username=IsabelleLandini&color=blueviolet&style=for-the-badge)
+
