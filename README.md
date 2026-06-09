@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👩🏻‍💻 Isabelle Landini
-![](https://komarev.com/ghpvc/?username=IsabelleLandini&color=blueviolet&style=for-the-badge)
 
 ### Desenvolvedora Back-end Python | APIs REST | Em evolução para Full Stack
 
@@ -63,9 +62,8 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 
 ## ⚡ Tecnologias & Ferramentas
 
-### Backend
-
 <div align="center">
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -74,9 +72,8 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 
 </div>
 
-### Frontend
-
 <div align="center">
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,9 +83,8 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 
 </div>
 
-### Ferramentas
-
 <div align="center">
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -112,26 +108,30 @@ Python • FastAPI • Docker • SQLAlchemy • React • Next.js
 
 ### 🐉 Pokémon API
 API RESTful construída com FastAPI, paginação, Docker, testes automatizados, CI/CD e deploy em produção no Render.
+
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com)
 
 ### 📚 Books API
 API REST desenvolvida com FastAPI utilizando Redis, Celery, Kafka, Docker, testes automatizados e CI/CD.
+
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/books-api-fastapi)
 
 ### ⏱️ API Foco Produtividade
 Sistema para gerenciamento de sessões de foco, métricas de desempenho e geração automática de diagnósticos.
+
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/api-foco-produtividade)
 
 ### ✅ API Tarefas
 API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker Compose e autenticação.
+
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/api-tarefas-fastapi)
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
+
+## 📊 GitHub Analytics
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsabelleLandini&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -141,9 +141,9 @@ API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker
 
 ---
 
-## 🔥 Consistência
-
 <div align="center">
+  
+## 🔥 Consistência
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleLandini&theme=tokyonight&hide_border=true"/>
 
@@ -151,9 +151,8 @@ API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker
 
 ---
 
-## 📫 Conecte-se Comigo
-
 <div align="center">
+## 📫 Conecte-se Comigo
 
 <a href="https://www.linkedin.com/in/isabellelandini/">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -173,3 +172,5 @@ API para gerenciamento de tarefas utilizando FastAPI, SQLAlchemy, SQLite, Docker
 *"Não estou apenas aprendendo programação. Estou construindo uma nova carreira, um commit por vez." ✨*
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=IsabelleLandini&color=blueviolet&style=for-the-badge)
