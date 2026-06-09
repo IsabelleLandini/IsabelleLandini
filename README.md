@@ -113,7 +113,7 @@ Python • FastAPI • Docker • SQLAlchemy • React • Next.js
 API RESTful construída com FastAPI, paginação, Docker, testes automatizados, CI/CD e deploy em produção no Render.
 
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/pokemon-api)
-🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com)
+🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
 ### 📚 Books API
 API REST desenvolvida com FastAPI utilizando Redis, Celery, Kafka, Docker, testes automatizados e CI/CD.
