@@ -22,17 +22,6 @@ Atualmente estou expandindo meus conhecimentos para o desenvolvimento Front-end 
 
 ---
 
-## 🎯 Especialidades
-
-- Desenvolvimento de APIs REST com FastAPI
-- Modelagem de dados com SQLAlchemy
-- Integração com bancos de dados relacionais
-- Docker e Docker Compose
-- Testes automatizados com Pytest
-- CI/CD com GitHub Actions
-
----
-
 ## 🚀 Minha Jornada
 
 ```text
