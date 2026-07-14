@@ -1,13 +1,12 @@
+<p align="center">
+  <img src="./README/banner.png" alt="Banner Isabelle Landini" width="100%">
+</p>
+
 <div align="center">
-
-# 👩🏻‍💻 Isabelle Landini
-
-### Desenvolvedora Full Stack Júnior | Python | FastAPI | React | APIs REST
-
 
 🚀 Desenvolvendo aplicações web com Python, FastAPI e React
 
-📚 Aplicando boas práticas, testes automatizados e organização de código
+📚 Foco em APIs REST, interfaces modernas e boas práticas de desenvolvimento
 
 🎯 Aberta a oportunidades como Desenvolvedora Full Stack Júnior
 
@@ -15,13 +14,13 @@
 
 ---
 
-## 💜 Sobre Mim
+## 👩🏻‍💻 Sobre Mim
 
-Sou Desenvolvedora Full Stack Júnior em transição de carreira para Tecnologia, com experiência no desenvolvimento de aplicações web e APIs REST.
+Sou Desenvolvedora Full Stack Júnior em transição de carreira para a área de Tecnologia, com experiência no desenvolvimento de aplicações web e APIs REST.
 
-Minha principal atuação é no desenvolvimento Back-end com Python, utilizando FastAPI, SQLAlchemy, SQLite e boas práticas de organização de código.
+Atuo principalmente no desenvolvimento Back-end com Python, utilizando FastAPI, SQLAlchemy, SQLite e boas práticas de organização de código.
 
-Também venho expandindo meus conhecimentos em desenvolvimento Front-end com React, JavaScript, HTML, CSS e ferramentas modernas para construção de interfaces responsivas.
+Também desenvolvo interfaces responsivas com React, JavaScript, HTML e CSS, ampliando continuamente meus conhecimentos para uma atuação Full Stack.
 
 ---
 
@@ -29,12 +28,13 @@ Também venho expandindo meus conhecimentos em desenvolvimento Front-end com Rea
 
 ### 🔙 Backend
 
-Python • FastAPI • APIs REST • SQLAlchemy • SQLite
+Python • FastAPI • APIs REST • SQLAlchemy • SQLite• Pydantic
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 
 ### 🎨 Front-end
@@ -60,66 +60,62 @@ Git • Docker • GitHub Actions
 
 ### 📚 Em evolução
 
-Next.js e arquitetura de aplicações.
+Next.js • Arquitetura de Aplicações
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos
 
 
-## 🔙 Backend
+### 🔙 Backend
 
-### 🐉 Pokémon API
+#### 🐉 Pokémon API
 
 API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, aplicando boas práticas de desenvolvimento backend.
 
-Tecnologias utilizadas: 
-  FastAPI | Pydantic | Paginação | Docker | Testes automatizados | CI/CD | Deploy
+**Tecnologias:** FastAPI • Pydantic • Paginação • Docker • Testes Automatizados • CI/CD • Deploy
  
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
 ---
 
-### 📚 Books API
+#### 📚 Books API
 
 API REST desenvolvida com FastAPI com foco em organização de código, persistência de dados e boas práticas no desenvolvimento backend.
 
-Tecnologias utilizadas:
-  Python | FastAPI | SQLAlchemy | Pydantic | SQLite | Docker | Testes automatizados
+**Tecnologias:** Python • FastAPI • SQLAlchemy • Pydantic • SQLite • Docker • Testes Automatizados
 
 
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/books-api-fastapi)
 
 ---
 
-## 🎨 Front-end
+### 🎨 Front-end
 
-### 🛍️ Catálogo de Produtos
+#### 🛍️ Catálogo de Produtos
 
 Aplicação web desenvolvida em React para exibição e gerenciamento de produtos.
 
-Tecnologias utilizadas:
-  React | Componentização | Props | Hooks | useState | useEffect | Vite | JavaScript
+**Tecnologias:** React • JavaScript • Vite • Componentização • Props • Hooks • useState • useEffect
 
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/catalogo-produtos)
 
 ---
 
-### 🐾 Pet&Style
+#### 🐾 Pet&Style
 
 Landing page responsiva desenvolvida utilizando Tailwind CSS, aplicando boas práticas de criação de interfaces modernas.
 
-Tecnologias utilizadas:
-  HTML | Tailwind CSS | Responsividade | Componentização | UI Design
+**Tecnologias:** HTML • Tailwind CSS • Responsividade • Componentização • UI Design
 
 🔗 [Ver Projeto](https://github.com/IsabelleLandini/petstyle-loja-virtual)
 
 ---
 
 <div align="center">
-  
-## 📫 Conecte-se Comigo
+
+## 📫 Contato
 
 <a href="mailto:isa_landini@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/isabellelandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,6 +123,8 @@ Tecnologias utilizadas:
 
 
 </div>
+
+---
 
 
 
