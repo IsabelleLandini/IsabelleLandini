@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="./README/banner.png" alt="Banner Isabelle Landini" width="100%">
+  <img src="./README/banner.png" alt="Banner Isabelle Landini" width="100%" height="150">
 </p>
 
-<div align="center">
 
 🚀 Desenvolvendo aplicações web com Python, FastAPI e React
 
@@ -10,17 +9,12 @@
 
 🎯 Aberta a oportunidades como Desenvolvedora Full Stack Júnior
 
-</div>
 
 ---
 
 ## 👩🏻‍💻 Sobre Mim
 
-Sou Desenvolvedora Full Stack Júnior em transição de carreira para a área de Tecnologia, com experiência no desenvolvimento de aplicações web e APIs REST.
-
-Atuo principalmente no desenvolvimento Back-end com Python, utilizando FastAPI, SQLAlchemy, SQLite e boas práticas de organização de código.
-
-Também desenvolvo interfaces responsivas com React, JavaScript, HTML e CSS, ampliando continuamente meus conhecimentos para uma atuação Full Stack.
+Desenvolvedora Full Stack Júnior em transição de carreira, com experiência prática no desenvolvimento de aplicações web e APIs REST através de projetos próprios e acadêmicos.
 
 ---
 
@@ -75,7 +69,7 @@ API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, apl
 
 **Tecnologias:** FastAPI • Pydantic • Paginação • Docker • Testes Automatizados • CI/CD • Deploy
  
-🔗 [Ver Projeto](https://github.com/IsabelleLandini/pokemon-api)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
 ---
@@ -87,7 +81,7 @@ API REST desenvolvida com FastAPI com foco em organização de código, persist�
 **Tecnologias:** Python • FastAPI • SQLAlchemy • Pydantic • SQLite • Docker • Testes Automatizados
 
 
-🔗 [Ver Projeto](https://github.com/IsabelleLandini/books-api-fastapi)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/books-api-fastapi)
 
 ---
 
@@ -99,7 +93,7 @@ Aplicação web desenvolvida em React para exibição e gerenciamento de produto
 
 **Tecnologias:** React • JavaScript • Vite • Componentização • Props • Hooks • useState • useEffect
 
-🔗 [Ver Projeto](https://github.com/IsabelleLandini/catalogo-produtos)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-produtos)
 
 ---
 
@@ -109,7 +103,7 @@ Landing page responsiva desenvolvida utilizando Tailwind CSS, aplicando boas pr�
 
 **Tecnologias:** HTML • Tailwind CSS • Responsividade • Componentização • UI Design
 
-🔗 [Ver Projeto](https://github.com/IsabelleLandini/petstyle-loja-virtual)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/petstyle-loja-virtual)
 
 ---
 
