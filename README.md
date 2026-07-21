@@ -87,13 +87,13 @@ API REST desenvolvida com FastAPI com foco em organização de código, persist�
 
 ### 🎨 Front-end
 
-#### 🛍️ Catálogo de Produtos
+#### ✅ To-do List
 
-Aplicação web desenvolvida em React para exibição e gerenciamento de produtos.
+Aplicação de lista de tarefas desenvolvida em React, com gerenciamento de estado, persistência de dados e aplicação de boas práticas para construção de interfaces modernas.
 
-**Tecnologias:** React • JavaScript • Vite • Componentização • Props • Hooks • useState • useEffect
+Tecnologias: React • JavaScript • Vite • Context API • Hooks Customizados • useMemo • Memoization • LocalStorage • Componentização
 
-🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-produtos)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/todo-react-avancado)
 
 ---
 
