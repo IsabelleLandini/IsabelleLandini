@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 Sobre Mim
 
-Desenvolvedora Full Stack Júnior em transição de carreira, com experiência prática no desenvolvimento de aplicações web e APIs REST através de projetos próprios e acadêmicos.
+Estou em transição de carreira para a área de tecnologia, com foco em aplicações Full Stack e especialização em Backend Python. Venho construindo minha experiência por meio de estudos e projetos práticos, desenvolvendo APIs REST e aplicações web utilizando Python, FastAPI, React, JavaScript, HTML, CSS, SQL, Git e Docker.
 
 ---
 
