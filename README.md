@@ -54,8 +54,6 @@ Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stac
 ## 📌 Projetos
 
 
-### 🔙 Backend
-
 #### 🐉 Pokémon API
 
 API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, aplicando boas práticas de desenvolvimento backend.
@@ -65,10 +63,6 @@ API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, apl
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
-</p>
-
 #### 📚 Books API
 
 API REST para gerenciamento de livros desenvolvida com FastAPI, utilizando arquitetura organizada em camadas, persistência de dados e validação de schemas.
@@ -77,13 +71,8 @@ API REST para gerenciamento de livros desenvolvida com FastAPI, utilizando arqui
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/books-api-fastapi)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
-</p>
 
-### 🎨 Front-end
-
-### 🌍✈️ Portal Viagens Next.js
+### 🌍✈️ Portal Viagens
 
 Portal de viagens desenvolvido com Next.js, React e TypeScript.
 
@@ -93,9 +82,6 @@ Aplicação utilizando App Router, rotas dinâmicas, componentes reutilizáveis,
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/portal-viagens-nextjs)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
-</p>
 
 ### 📚 Catálogo de Livros
 
@@ -107,9 +93,6 @@ Implementa criação, listagem, remoção e atualização de dados, utilizando c
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
-</p>
 
 ### 📋 Todo List 
 
@@ -122,12 +105,12 @@ Aplicação de gerenciamento de tarefas desenvolvida com React, aplicando gerenc
 
 <div align="center">
 
-## 📊 GitHub Stats
+<h2 align="center">
+  💻 Linguagens Mais Utilizadas
+</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IsabelleLandini&show_icons=true&theme=transparent&title_color=A855F7&icon_color=A855F7&hide_border=true" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelleLandini&layout=compact&langs_count=6&theme=transparent&title_color=A855F7&hide_border=true" />
 </div>
 
 ## 📫 Contato
