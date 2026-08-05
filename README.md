@@ -1,21 +1,20 @@
-<p align="center">
-  <img src="./README/banner.png" alt="Banner Isabelle Landini" width="100%" height="150">
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Isabelle%20Landini&fontSize=55&fontColor=A855F7&font=Montserrat-SemiBold&animation=fadeIn" />
+</h1>
 
 <h2 align="center">
-🚀 Desenvolvedora Full Stack Júnior | Python • FastAPI • React • TypeScript • Next.js
+👩🏻‍💻 Desenvolvedora Full Stack Júnior | Backend Python • FastAPI • React • Next.js
 </h2>
 
 
-## 👩🏻‍💻 Sobre Mim
+## 💜 Sobre Mim
 
 Estou em transição de carreira para desenvolvimento de software, com foco em **Backend Python e desenvolvimento Full Stack**.
 
-Tenho desenvolvido aplicações utilizando **Python, FastAPI, React, TypeScript e Next.js**, aplicando conceitos como APIs REST, componentização, integração com banco de dados, testes automatizados e boas práticas de código.
+Tenho desenvolvido aplicações backend utilizando Python, FastAPI, APIs REST, SQL e integração com bancos de dados, além de aplicações frontend com React, TypeScript e Next.js.
 
 Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stack Júnior**, contribuindo com dedicação, aprendizado contínuo e evolução técnica.
 
----
 
 ## 🚀 Stack
 
@@ -51,7 +50,6 @@ Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
 
 ## 📌 Projetos
 
@@ -67,6 +65,9 @@ API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, apl
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
+</p>
 
 #### 📚 Books API
 
@@ -76,6 +77,9 @@ API REST para gerenciamento de livros desenvolvida com FastAPI, utilizando arqui
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/books-api-fastapi)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
+</p>
 
 ### 🎨 Front-end
 
@@ -89,6 +93,9 @@ Aplicação utilizando App Router, rotas dinâmicas, componentes reutilizáveis,
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/portal-viagens-nextjs)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
+</p>
 
 ### 📚 Catálogo de Livros
 
@@ -100,6 +107,10 @@ Implementa criação, listagem, remoção e atualização de dados, utilizando c
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A855F7&width=450" />
+</p>
+
 ### 📋 Todo List 
 
 Aplicação de gerenciamento de tarefas desenvolvida com React, aplicando gerenciamento de estado, criação de componentes reutilizáveis e boas práticas de organização de código.
@@ -110,6 +121,14 @@ Aplicação de gerenciamento de tarefas desenvolvida com React, aplicando gerenc
 
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IsabelleLandini&show_icons=true&theme=transparent&title_color=A855F7&icon_color=A855F7&hide_border=true" />
+
+</div>
 
 ## 📫 Contato
 
