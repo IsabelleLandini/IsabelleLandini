@@ -9,12 +9,11 @@
 
 ## 💜 Sobre Mim
 
-Estou em transição de carreira para desenvolvimento de software, com foco em **Backend Python e desenvolvimento Full Stack**.
+Sou desenvolvedora com foco em **Backend Python e desenvolvimento Full Stack**.
 
 Tenho desenvolvido aplicações backend utilizando Python, FastAPI, APIs REST, SQL e integração com bancos de dados, além de aplicações frontend com React, TypeScript e Next.js.
 
-Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stack Júnior**, contribuindo com dedicação, aprendizado contínuo e evolução técnica.
-
+Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stack Júnior**, com foco em evolução técnica e desenvolvimento de soluções.
 
 ## 🚀 Stack
 
@@ -53,55 +52,47 @@ Busco uma oportunidade como **Desenvolvedora Backend Python Júnior ou Full Stac
 
 ## 📌 Projetos
 
+### 🐉 Pokémon API
 
-#### 🐉 Pokémon API
+API REST desenvolvida com Python e FastAPI, integrada à PokeAPI, com CRUD, autenticação, cache, testes automatizados, containerização e CI.
 
-API RESTful desenvolvida com FastAPI para consulta e gerenciamento de dados, aplicando boas práticas de desenvolvimento backend.
+**Tecnologias:** Python • FastAPI • SQLAlchemy • Redis • Pytest • Docker • GitHub Actions
 
-**Tecnologias:** Python • FastAPI • Pydantic • Docker • Docker Compose • Pytest • GitHub Actions
- 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/pokemon-api)
 🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
 
-#### 📚 Books API
+### 📚 Books API
 
-API REST para gerenciamento de livros desenvolvida com FastAPI, utilizando arquitetura organizada em camadas, persistência de dados e validação de schemas.
+API REST para gerenciamento de livros desenvolvida com FastAPI, utilizando autenticação, cache, processamento assíncrono e mensageria.
 
-**Tecnologias:** Python • FastAPI • SQLAlchemy • Pydantic • SQLite • Docker • Docker Compose
+**Tecnologias:** Python • FastAPI • SQLAlchemy • Redis • Celery • Kafka • Docker
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/books-api-fastapi)
 
+### 📝 DevLog
+
+Blog desenvolvido com Next.js, React e TypeScript, utilizando App Router, Server Components e rotas dinâmicas.
+
+**Tecnologias:** Next.js • React • TypeScript • API REST
+
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/blog-artigos)
+🌐 [Aplicação Online](https://blog-artigos-lac.vercel.app/)
 
 ### 🌍✈️ Portal Viagens
 
-Portal de viagens desenvolvido com Next.js, React e TypeScript.
-
-Aplicação utilizando App Router, rotas dinâmicas, componentes reutilizáveis, CSS Modules e organização de dados locais.
+Aplicação web desenvolvida com Next.js, React e TypeScript, utilizando App Router, rotas dinâmicas, componentes reutilizáveis e CSS Modules.
 
 **Tecnologias:** Next.js • React • TypeScript • CSS Modules
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/portal-viagens-nextjs)
 
-
 ### 📚 Catálogo de Livros
 
-Aplicação React + TypeScript integrada com API REST para gerenciamento de livros.
-
-Implementa criação, listagem, remoção e atualização de dados, utilizando componentes reutilizáveis, hooks personalizados e tipagem estática.
+Aplicação React + TypeScript integrada com API REST para gerenciamento de livros, com operações CRUD, componentes reutilizáveis e hooks personalizados.
 
 **Tecnologias:** React • TypeScript • Axios • Vite • API REST
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros)
-
-
-### 📋 Todo List 
-
-Aplicação de gerenciamento de tarefas desenvolvida com React, aplicando gerenciamento de estado, criação de componentes reutilizáveis e boas práticas de organização de código.
-
-**Tecnologias:** React • JavaScript • Vite • Context API • Hooks Customizados • LocalStorage
-
-🔗 [Acessar repositório](https://github.com/IsabelleLandini/todo-list-recoil)
-
 
 <div align="center">
 
@@ -120,8 +111,3 @@ Aplicação de gerenciamento de tarefas desenvolvida com React, aplicando gerenc
 <a href="https://github.com/IsabelleLandini"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 </div>
-
-
-
-
-
