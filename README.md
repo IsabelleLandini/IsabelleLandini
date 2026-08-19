@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-👩🏻‍💻 Desenvolvedora Full Stack Júnior | Backend Python • FastAPI • React • Next.js
+👩🏻‍💻 Desenvolvedora Backend Python Júnior | Full Stack | FastAPI | React | TypeScript
 </h2>
 
 
