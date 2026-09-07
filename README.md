@@ -85,6 +85,8 @@ Aplicação web desenvolvida com Next.js, React e TypeScript, utilizando App Rou
 **Tecnologias:** Next.js • React • TypeScript • CSS Modules
 
 🔗 [Acessar repositório](https://github.com/IsabelleLandini/portal-viagens-nextjs)
+🌐 [Aplicação Online](https://portal-viagens-nextjs.vercel.app/)
+
 
 ### 📚 Catálogo de Livros
 
