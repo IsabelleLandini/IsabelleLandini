@@ -94,7 +94,7 @@ Aplicação React + TypeScript integrada com API REST para gerenciamento de livr
 
 **Tecnologias:** React • TypeScript • Axios • Vite • API REST
 
-🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros)
+🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros-typescript)
 
 <div align="center">
 
