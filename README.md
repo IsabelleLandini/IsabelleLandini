@@ -21,158 +21,261 @@
     <img src="https://img.shields.io/badge/Conheça_meu_Portfólio-E9D8FD?style=flat-square&logo=vercel&logoColor=69458C" alt="Portfólio" />
   </a>
 </p>
-    
----
+<br>
 
-## 🛠️ Tecnologias e Habilidades
+<h2 align="center">🛠️ Tecnologias e Habilidades</h2>
 
-### 💻 Linguagens
+<h3 align="center">Linguagens</h3>
 
-![Python](https://img.shields.io/badge/Python-E9D8FD?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-E9D8FD?style=flat-square&logo=javascript&logoColor=B8860B)
-![TypeScript](https://img.shields.io/badge/TypeScript-E9D8FD?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-E9D8FD?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-E9D8FD?style=flat-square&logo=css&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-E9D8FD?style=flat-square)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="20" alt="Python" /> Python
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" alt="JavaScript" /> JavaScript
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="20" alt="TypeScript" /> TypeScript
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" alt="HTML5" /> HTML5
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="20" alt="CSS3" /> CSS3
+  &nbsp;&nbsp;&nbsp;
+  SQL
+</p>
 
-### 🔙 Backend
+<h3 align="center">Backend</h3>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-E9D8FD?style=flat-square&logo=fastapi&logoColor=009688)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-E9D8FD?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
-![Pydantic](https://img.shields.io/badge/Pydantic-E9D8FD?style=flat-square&logo=pydantic&logoColor=E92063)
-![APIs REST](https://img.shields.io/badge/APIs_REST-E9D8FD?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-E9D8FD?style=flat-square&logo=sqlite&logoColor=003B57)
-![Redis](https://img.shields.io/badge/Redis-E9D8FD?style=flat-square&logo=redis&logoColor=DC382D)
-![Celery](https://img.shields.io/badge/Celery-E9D8FD?style=flat-square&logo=celery&logoColor=37814A)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-E9D8FD?style=flat-square&logo=apachekafka&logoColor=231F20)
-![HTTPX](https://img.shields.io/badge/HTTPX-E9D8FD?style=flat-square)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="20" alt="FastAPI" /> FastAPI
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="20" alt="SQLAlchemy" /> SQLAlchemy
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" width="20" alt="Pydantic" /> Pydantic
+  &nbsp;&nbsp;&nbsp;
+  APIs REST
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="20" alt="SQLite" /> SQLite
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/DC382D" width="20" alt="Redis" /> Redis
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="20" alt="Celery" /> Celery
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="20" alt="Apache Kafka" /> Apache Kafka
+  &nbsp;&nbsp;&nbsp;
+  HTTPX
+</p>
 
-### 🎨 Frontend
+<h3 align="center">Frontend</h3>
 
-![React](https://img.shields.io/badge/React-E9D8FD?style=flat-square&logo=react&logoColor=087EA4)
-![Next.js](https://img.shields.io/badge/Next.js-E9D8FD?style=flat-square&logo=nextdotjs&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-E9D8FD?style=flat-square&logo=vite&logoColor=646CFF)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-E9D8FD?style=flat-square&logo=cssmodules&logoColor=1572B6)
-![React Hooks](https://img.shields.io/badge/React_Hooks-E9D8FD?style=flat-square&logo=react&logoColor=087EA4)
-![Axios](https://img.shields.io/badge/Axios-E9D8FD?style=flat-square&logo=axios&logoColor=5A29E4)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-E9D8FD?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-E9D8FD?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Sass](https://img.shields.io/badge/Sass-E9D8FD?style=flat-square&logo=sass&logoColor=CC6699)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/087EA4" width="20" alt="React" /> React
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="20" alt="Next.js" /> Next.js
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="20" alt="Vite" /> Vite
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cssmodules/1572B6" width="20" alt="CSS Modules" /> CSS Modules
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/087EA4" width="20" alt="React Hooks" /> React Hooks
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="20" alt="Axios" /> Axios
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20" alt="Tailwind CSS" /> Tailwind CSS
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" alt="Bootstrap" /> Bootstrap
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="20" alt="Sass" /> Sass
+</p>
 
-### ☁️ Cloud & DevOps
+<h3 align="center">Cloud & DevOps</h3>
 
-![Docker](https://img.shields.io/badge/Docker-E9D8FD?style=flat-square&logo=docker&logoColor=2496ED)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-E9D8FD?style=flat-square&logo=docker&logoColor=2496ED)
-![Podman](https://img.shields.io/badge/Podman-E9D8FD?style=flat-square&logo=podman&logoColor=892CA0)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-E9D8FD?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-E9D8FD?style=flat-square&logo=githubactions&logoColor=2088FF)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-E9D8FD?style=flat-square)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-E9D8FD?style=flat-square&logo=elastic&logoColor=005571)
-![Render](https://img.shields.io/badge/Render-E9D8FD?style=flat-square&logo=render&logoColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-E9D8FD?style=flat-square&logo=vercel&logoColor=000000)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" alt="Docker" /> Docker
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" alt="Docker Compose" /> Docker Compose
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/podman/892CA0" width="20" alt="Podman" /> Podman
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="20" alt="Kubernetes" /> Kubernetes
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="20" alt="GitHub Actions" /> GitHub Actions
+  &nbsp;&nbsp;&nbsp;
+  CI/CD
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/elastic/005571" width="20" alt="ELK Stack" /> ELK Stack
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="20" alt="Render" /> Render
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/808080" width="20" alt="Vercel" /> Vercel
+</p>
 
-### 🧪 Testes & Qualidade
+<h3 align="center">Testes & Qualidade</h3>
 
-![Pytest](https://img.shields.io/badge/Pytest-E9D8FD?style=flat-square&logo=pytest&logoColor=0A9EDC)
-![Pytest-Cov](https://img.shields.io/badge/Pytest--Cov-E9D8FD?style=flat-square&logo=pytest&logoColor=0A9EDC)
-![Jest](https://img.shields.io/badge/Jest-E9D8FD?style=flat-square&logo=jest&logoColor=C21325)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E9D8FD?style=flat-square&logo=testinglibrary&logoColor=E33332)
-![Ruff](https://img.shields.io/badge/Ruff-E9D8FD?style=flat-square&logo=ruff&logoColor=69458C)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="20" alt="Pytest" /> Pytest
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="20" alt="Pytest-Cov" /> Pytest-Cov
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jest/C21325" width="20" alt="Jest" /> Jest
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/testinglibrary/E33332" width="20" alt="Testing Library" /> Testing Library
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ruff/69458C" width="20" alt="Ruff" /> Ruff
+</p>
 
-### 🔧 Ferramentas
+<h3 align="center">Ferramentas</h3>
 
-![Git](https://img.shields.io/badge/Git-E9D8FD?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-E9D8FD?style=flat-square&logo=github&logoColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-E9D8FD?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Insomnia](https://img.shields.io/badge/Insomnia-E9D8FD?style=flat-square&logo=insomnia&logoColor=4000BF)
-![Postman](https://img.shields.io/badge/Postman-E9D8FD?style=flat-square&logo=postman&logoColor=FF6C37)
-![Swagger / OpenAPI](https://img.shields.io/badge/Swagger_%2F_OpenAPI-E9D8FD?style=flat-square&logo=swagger&logoColor=608B17)
-![Poetry](https://img.shields.io/badge/Poetry-E9D8FD?style=flat-square&logo=poetry&logoColor=60A5FA)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="20" alt="Git" /> Git
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/808080" width="20" alt="GitHub" /> GitHub
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" alt="VS Code" /> VS Code
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="20" alt="Insomnia" /> Insomnia
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" alt="Postman" /> Postman
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/608B17" width="20" alt="Swagger" /> Swagger / OpenAPI
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/poetry/60A5FA" width="20" alt="Poetry" /> Poetry
+</p>
 
-### 🤝 Soft Skills
+<h3 align="center">Soft Skills</h3>
 
-![Comunicação](https://img.shields.io/badge/Comunicação-E9D8FD?style=flat-square)
-![Trabalho em equipe](https://img.shields.io/badge/Trabalho_em_equipe-E9D8FD?style=flat-square)
-![Organização](https://img.shields.io/badge/Organização-E9D8FD?style=flat-square)
-![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-E9D8FD?style=flat-square)
-![Resolução de problemas](https://img.shields.io/badge/Resolução_de_problemas-E9D8FD?style=flat-square)
-![Pensamento analítico](https://img.shields.io/badge/Pensamento_analítico-E9D8FD?style=flat-square)
-![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado_contínuo-E9D8FD?style=flat-square)
+<p align="center">
+  💬 Comunicação
+  &nbsp;&nbsp;&nbsp;
+  🤝 Trabalho em equipe
+  &nbsp;&nbsp;&nbsp;
+  📋 Organização
+  &nbsp;&nbsp;&nbsp;
+  🔄 Adaptabilidade
+  &nbsp;&nbsp;&nbsp;
+  🧩 Resolução de problemas
+  &nbsp;&nbsp;&nbsp;
+  🔍  Pensamento analítico
+  &nbsp;&nbsp;&nbsp;
+  🌱 Aprendizado contínuo
+</p>
+<br>
 
----
-
-## 📌 Projetos
-
-### 🌐 Meu Portfólio
-
-Portfólio pessoal desenvolvido com React, TypeScript e Vite para apresentar meus projetos, habilidades e trajetória profissional.
-
-**Tecnologias:** React • TypeScript • Vite • CSS Modules
-
-🔗 [Visitar portfólio](https://isabellelandini-portfolio.vercel.app/)
-🔗 [Repositório](https://github.com/IsabelleLandini/portfolio)
-
-### 📚 Books API
-
-API REST para gerenciamento de livros, com autenticação, banco de dados, cache Redis, processamento assíncrono, mensageria e testes automatizados.
-
-**Tecnologias:** Python • FastAPI • SQLAlchemy • Redis • Celery • Kafka • Docker • Pytest
-
-🔗 [Repositório](https://github.com/IsabelleLandini/books-api-fastapi)
-
-### 🐉 Pokémon API
-
-API REST integrada à PokeAPI, com consultas paginadas, autenticação por API Key, cache Redis, testes automatizados e deploy.
-
-**Tecnologias:** Python • FastAPI • HTTPX • SQLAlchemy • Redis • Docker • GitHub Actions
-
-🔗 [Repositório](https://github.com/IsabelleLandini/pokemon-api)
-🌐 [Aplicação Online](https://pokemon-api-u9so.onrender.com/docs)
-
-### 🎯 API Foco e Produtividade
-
-API REST para registrar sessões de foco, calcular indicadores e fornecer diagnósticos de produtividade, com validação de dados e testes automatizados.
-
-**Tecnologias:** Python • FastAPI • SQLAlchemy • SQLite • Pydantic • Pytest
-
-🔗 [Repositório](https://github.com/IsabelleLandini/api-foco-produtividade)
-
-### ✅ API de Tarefas
-
-API REST para gerenciamento de tarefas, com operações CRUD, autenticação HTTP Basic e persistência em banco de dados.
-
-**Tecnologias:** Python • FastAPI • SQLAlchemy • SQLite • Poetry • Podman
-
-🔗 [Repositório](https://github.com/IsabelleLandini/api-tarefas-fastapi)
-
-### 📚 Catálogo de Livros
-
-Aplicação desenvolvida com React e TypeScript, integrada a uma API REST para gerenciamento de livros, com operações CRUD, componentes reutilizáveis e hooks personalizados.
-
-**Tecnologias:** React • TypeScript • Axios • Vite • API REST
-
-🔗 [Acessar repositório](https://github.com/IsabelleLandini/catalogo-livros-typescript)
-
-### 🌍✈️ Portal Viagens
-
-Aplicação web responsiva desenvolvida com Next.js, React e TypeScript, utilizando App Router, rotas dinâmicas e componentes reutilizáveis.
-
-**Tecnologias:** Next.js • React • TypeScript • CSS Modules
-
-🔗 [Acessar repositório](https://github.com/IsabelleLandini/portal-viagens-nextjs)
-🌐 [Aplicação Online](https://portal-viagens-nextjs.vercel.app/)
-
----
-
-## 💻 Linguagens Mais Utilizadas
+<h2 align="center">📌 Projetos</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelleLandini&layout=compact&langs_count=6&theme=transparent&title_color=A855F7&hide_border=true" />
+
+<h3 align="center">🌐 Meu Portfólio</h3>
+
+<p align="center">
+ Portfólio pessoal desenvolvido com React, TypeScript e Vite para apresentar meus projetos, habilidades e trajetória profissional.
+</p>
+<p align="center">
+ <strong>Tecnologias:</strong> React • TypeScript • Vite • CSS Modules
+</p>
+<p align="center">
+ <a href="https://isabellelandini-portfolio.vercel.app/">🔗 Visitar portfólio</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IsabelleLandini/portfolio">🔗 Repositório</a>
+</p>
+
+<h3 align="center">📚 Books API</h3>
+
+<p align="center">
+ API REST para gerenciamento de livros, com autenticação, banco de dados, cache Redis, processamento assíncrono, mensageria e testes automatizados.
+</p>
+<p align="center">
+  <strong>Tecnologias:</strong> Python • FastAPI • SQLAlchemy • Redis • Celery • Kafka • Docker • Pytest
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/books-api-fastapi">🔗 Repositório</a>
+</p>
+
+<h3 align="center">🐉 Pokémon API</h3>
+
+<p align="center">
+  API REST integrada à PokeAPI, com consultas paginadas, autenticação por API Key, cache Redis, testes automatizados e deploy.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> Python • FastAPI • HTTPX • SQLAlchemy • Redis • Docker • GitHub Actions
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/pokemon-api">🔗 Repositório</a>
+  &nbsp;&nbsp;
+  <a href="https://pokemon-api-u9so.onrender.com/docs">🌐 Aplicação Online</a>
+</p>
+
+<h3 align="center">🎯 API Foco e Produtividade</h3>
+
+<p align="center">
+  API REST para registrar sessões de foco, calcular indicadores e fornecer diagnósticos de produtividade, com validação de dados e testes automatizados.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> Python • FastAPI • SQLAlchemy • SQLite • Pydantic • Pytest
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/api-foco-produtividade">🔗 Repositório</a>
+</p>
+
+<h3 align="center">✅ API de Tarefas</h3>
+
+<p align="center">
+  API REST para gerenciamento de tarefas, com operações CRUD, autenticação HTTP Basic e persistência em banco de dados.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> Python • FastAPI • SQLAlchemy • SQLite • Poetry • Podman
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/api-tarefas-fastapi">🔗 Repositório</a>
+</p>
+
+<h3 align="center">📚 Catálogo de Livros</h3>
+
+<p align="center">
+  Aplicação desenvolvida com React e TypeScript, integrada a uma API REST para gerenciamento de livros, com operações CRUD, componentes reutilizáveis e hooks personalizados.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> React • TypeScript • Axios • Vite • API REST
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/catalogo-livros-typescript">🔗 Repositório</a>
+</p>
+
+<h3 align="center">🌍✈️ Portal Viagens</h3>
+
+<p align="center">
+  Aplicação web responsiva desenvolvida com Next.js, React e TypeScript, utilizando App Router, rotas dinâmicas e componentes reutilizáveis.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> Next.js • React • TypeScript • CSS Modules
+</p>
+
+<p align="center">
+  <a href="https://github.com/IsabelleLandini/portal-viagens-nextjs">🔗 Repositório</a>
+  &nbsp;&nbsp;
+  <a href="https://portal-viagens-nextjs.vercel.app/">🌐 Aplicação Online</a>
+</p>
+
+<br>
 </div>
+<h2 align="center">💻 Linguagens Mais Utilizadas</h2>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelleLandini&layout=compact&langs_count=6&theme=transparent&title_color=A855F7&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
-## 📫 Contato
+
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <a href="mailto:isa_landini@hotmail.com">
