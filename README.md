@@ -38,7 +38,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" width="20" alt="CSS3" /> CSS3
   &nbsp;&nbsp;&nbsp;
-  SQL
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="20" alt="SQL" /> SQL
+
+
 </p>
 
 <h3 align="center">Backend</h3>
@@ -60,7 +62,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="20" alt="Apache Kafka" /> Apache Kafka
   &nbsp;&nbsp;&nbsp;
-  HTTPX
+  <img src="https://www.python-httpx.org/img/butterfly.png" width="20" alt="HTTPX" /> HTTPX
+
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -160,7 +163,6 @@
 
 <h2 align="center">📌 Projetos</h2>
 
-<div align="center">
 
 <h3 align="center">🌐 Meu Portfólio</h3>
 
@@ -264,8 +266,9 @@
 </p>
 
 <br>
-</div>
-<h2 align="center">💻 Linguagens Mais Utilizadas</h2>
+
+
+<h2 align="center">💻 Linguagens Utilizadas</h2>
 
 <p align="center">
   <img
