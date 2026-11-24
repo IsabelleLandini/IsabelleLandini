@@ -1,6 +1,6 @@
-﻿<h1 align="center">
-  <em><span style="color:#B58AEF">Olá, eu sou Isabelle Landini!</span></em>
-</h1>
+﻿<p align="center">
+  <strong><em><span style="color: #B58AEF; font-size: 2em;">Olá, eu sou Isabelle Landini!</span></em></strong>
+</p>
 
 <p align="center"><strong>Desenvolvedora Backend Python Júnior</strong></p>
 
