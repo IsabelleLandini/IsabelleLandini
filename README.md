@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <em><span style="color: #B58AEF;">Olá, eu sou Isabelle Landini!</span></em>
+  <em><font color="#B58AEF">Olá, eu sou Isabelle Landini!</font></em>
 </h1>
 
 <p align="center"><strong>Desenvolvedora Backend Python Júnior</strong></p>
