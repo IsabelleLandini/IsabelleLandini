@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-top: -20px;">
-  <strong><span style="font-size: 17px;">👩🏻‍💻 Desenvolvedora Backend Python Júnior</span></strong>
+  <strong><span style="font-size: 19px;">👩🏻‍💻 Desenvolvedora Backend Python Júnior</span></strong>
 </p>
 <p align="center">
   <a href="https://isabellelandini-portfolio.vercel.app/">
