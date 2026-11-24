@@ -1,11 +1,10 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ol%C3%A1%2C%20eu%20sou%20Isabelle%20Landini!&fontSize=55&fontColor=B58AEF&font=Montserrat-SemiBold&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Ol%C3%A1%2C%20eu%20sou%20Isabelle%20Landini!&fontSize=55&fontColor=B58AEF&font=Montserrat-SemiBold&animation=fadeIn" />
 </p>
 
-<p align="center" style="margin-top: -25px;">
-  <strong>👩🏻‍💻 Desenvolvedora Backend Python Júnior</strong>
+<p align="center" style="margin-top: -20px;">
+  <strong><span style="font-size: 17px;">👩🏻‍💻 Desenvolvedora Backend Python Júnior</span></strong>
 </p>
-
 <p align="center">
   <a href="https://isabellelandini-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Acesse meu Portfólio">
