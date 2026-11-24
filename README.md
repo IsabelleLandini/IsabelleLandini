@@ -5,19 +5,14 @@
     <strong>Desenvolvedora Backend Python Júnior</strong>
   </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabellelandini/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:isa_landini@hotmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://isabellelandini-portfolio.vercel.app/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfólio">
-  </a>
-</p>
+  
+
+<a href="https://www.linkedin.com/in/isabellelandini/"><img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="mailto:isa_landini@hotmail.com"><img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail"></a>
+&nbsp;&nbsp;
+<a href="https://isabellelandini-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfólio"></a>
+
 
   <p align="left">📍 Guaratinguetá - São Paulo, Brasil</p>
 </div>
