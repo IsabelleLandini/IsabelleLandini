@@ -1,26 +1,53 @@
-﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Ol%C3%A1%2C%20eu%20sou%20Isabelle%20Landini!&fontSize=55&fontColor=B58AEF&font=Montserrat-SemiBold&animation=fadeIn" />
+﻿<div align="left">
+  <h1 align="left">Olá 👋🏻 Eu sou Isabelle Landini</h1>
+
+  <p align="left">
+    <strong>Desenvolvedora Backend Python Júnior</strong>
+  </p>
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/isabellelandini/">
+      <img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn">
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:isa_landini@hotmail.com">
+      <img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://isabellelandini-portfolio.vercel.app/">
+      <img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfólio">
+    </a>
+  </p>
+
+  <p align="left">📍 Guaratinguetá - São Paulo, Brasil</p>
+</div>
+
+<h2 align="left">Sobre Mim</h2>
+
+<p align="left">
+  Desenvolvedora Backend Python Júnior, com formação em Desenvolvimento Full Stack pela EBAC e foco na construção de APIs e soluções Backend. Mantenho o Frontend como conhecimento complementar.
+  <br><br>
+  Sou organizada, proativa e adaptável, com facilidade para aprender e colaborar. Gosto de transformar o conhecimento em prática, explorar novas tecnologias e evoluir continuamente por meio de projetos e desafios. Tenho disponibilidade para horários flexíveis e capacidade de manter o foco e a organização mesmo diante de prazos e situações de pressão.
 </p>
 
-<p align="center" style="margin-top: -20px;">
-  <strong><span style="font-size: 19px;">👩🏻‍💻 Desenvolvedora Backend Python Júnior</span></strong>
+<h2 align="left">Stack</h2>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </p>
-<p align="center">
-  <a href="https://isabellelandini-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Acesse meu Portfólio">
-  </a>
-</p>
-
-## Sobre mim
-
-Em transição de carreira para tecnologia, venho desenvolvendo projetos Backend e aprofundando meus conhecimentos em Python, FastAPI e bancos de dados. Tenho formação em Desenvolvimento Full Stack Python pela EBAC e mantenho o Frontend como conhecimento complementar.
-
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-171421?style=flat-square&logo=python&logoColor=A66BDF) ![FastAPI](https://img.shields.io/badge/FastAPI-171421?style=flat-square&logo=fastapi&logoColor=B58AEF) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-171421?style=flat-square&logo=sqlalchemy&logoColor=A66BDF) ![Pydantic](https://img.shields.io/badge/Pydantic-171421?style=flat-square&logo=pydantic&logoColor=B58AEF) ![Docker](https://img.shields.io/badge/Docker-171421?style=flat-square&logo=docker&logoColor=A66BDF) ![Git](https://img.shields.io/badge/Git-171421?style=flat-square&logo=git&logoColor=B58AEF) ![Pytest](https://img.shields.io/badge/Pytest-171421?style=flat-square&logo=pytest&logoColor=A66BDF) ![React](https://img.shields.io/badge/React-171421?style=flat-square&logo=react&logoColor=B58AEF) ![TypeScript](https://img.shields.io/badge/TypeScript-171421?style=flat-square&logo=typescript&logoColor=A66BDF)
 
 
-## Projetos
+<h2 align="left">Projetos</h2>
 
 <table>
   <tr>
@@ -64,6 +91,14 @@ Em transição de carreira para tecnologia, venho desenvolvendo projetos Backend
   </tr>
 </table>
 
-## Contato
+<h2 align="center">Estatísticas do GitHub</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-252033?style=flat-square&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0I1OEVFRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjQgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNHpNMy41NTUgOWgzLjU2NHYxMS40NTJIMy41NTV6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/isabellelandini/) [![GitHub](https://img.shields.io/badge/GitHub-252033?style=flat-square&logo=github&logoColor=B58AEF)](https://github.com/IsabelleLandini) [![E-mail](https://img.shields.io/badge/E--mail-252033?style=flat-square&logo=gmail&logoColor=B58AEF)](mailto:isa_landini@hotmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleLandini&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IsabelleLandini/IsabelleLandini/output/pacman-contribution-graph.svg" width="100%" />
+</div>
