@@ -1,28 +1,28 @@
-﻿<div align="left">
-  <h1 align="left">Olá 👋🏻 Eu sou Isabelle Landini</h1>
+﻿<div align="center">
+  <h1 align="center">
+  Olá 👋🏻 Eu sou <em><span style="color: #B58AEF;">Isabelle Landini</span></em>
+  </h1>
 
-  <p align="left">
+  <p align="center">
     <strong>Desenvolvedora Backend Python Júnior</strong>
   </p>
 
-  
+  <p align="center">📍 Guaratinguetá - São Paulo, Brasil</p>
 
 <a href="https://www.linkedin.com/in/isabellelandini/"><img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn"></a>
 &nbsp;&nbsp;
 <a href="mailto:isa_landini@hotmail.com"><img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail"></a>
 &nbsp;&nbsp;
 <a href="https://isabellelandini-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfólio"></a>
-
-
-  <p align="left">📍 Guaratinguetá - São Paulo, Brasil</p>
+  
 </div>
 
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">
-  Desenvolvedora Backend Python Júnior, com formação em Desenvolvimento Full Stack pela EBAC e foco na construção de APIs e soluções Backend. Mantenho o Frontend como conhecimento complementar.
+  Desenvolvedora Backend Python Júnior, com formação em Desenvolvimento Full Stack pela EBAC e foco na construção de APIs e soluções Backend. Mantenho o Frontend como conhecimento complementar e tenho interesse em explorar novas tecnologias e ferramentas, ampliando meus conhecimentos e possibilidades de atuação.
   <br><br>
-  Sou organizada, proativa e adaptável, com facilidade para aprender e colaborar. Gosto de transformar o conhecimento em prática, explorar novas tecnologias e evoluir continuamente por meio de projetos e desafios. Tenho disponibilidade para horários flexíveis e capacidade de manter o foco e a organização mesmo diante de prazos e situações de pressão.
+  Sou organizada, proativa e adaptável, com facilidade para aprender, iniciativa e disposição para colaborar. Tenho interesse em explorar novas tecnologias, conhecer diferentes ferramentas e descobrir novas formas de resolver problemas por meio de projetos que me desafiem e contribuam para minha evolução. Tenho disponibilidade e flexibilidade de horários, além de facilidade para lidar com mudanças de prioridades, imprevistos e prazos, mantendo o foco, a organização e o compromisso com as entregas.
 </p>
 
 <h2 align="left">Stack</h2>
