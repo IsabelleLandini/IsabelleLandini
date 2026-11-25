@@ -1,7 +1,13 @@
 ﻿<div align="center">
-  <h1 align="center">
-  Olá 👋🏻 Eu sou <em><span style="color: #B58AEF;">Isabelle Landini</span></em>
-  </h1>
+  <a href="README.md">🇧🇷</a>
+  &nbsp;&nbsp;
+  <a href="README.en.md">🇺🇸</a>
+  &nbsp;&nbsp;
+  <a href="README.fr.md">🇫🇷</a>
+</div>
+
+<div align="center">
+ <h1 align="center">Olá 👋🏻 Eu sou Isabelle Landini</h1>
 
   <p align="center">
     <strong>Desenvolvedora Backend Python Júnior</strong>
@@ -20,9 +26,9 @@
 <h2 align="left">Sobre Mim</h2>
 
 <p align="left">
-  Desenvolvedora Backend Python Júnior, com formação em Desenvolvimento Full Stack pela EBAC e foco na construção de APIs e soluções Backend. Mantenho o Frontend como conhecimento complementar e tenho interesse em explorar novas tecnologias e ferramentas, ampliando meus conhecimentos e possibilidades de atuação.
+  Desenvolvedora Backend Python Júnior, com formação em Desenvolvimento Full Stack pela EBAC e foco na construção de APIs e aplicações Backend. Mantenho o Frontend como conhecimento complementar e sigo estudando novas tecnologias e ferramentas para fortalecer meu aprendizado e ampliar minhas possibilidades de atuação.
   <br><br>
-  Sou organizada, proativa e adaptável, com facilidade para aprender, iniciativa e disposição para colaborar. Tenho interesse em explorar novas tecnologias, conhecer diferentes ferramentas e descobrir novas formas de resolver problemas por meio de projetos que me desafiem e contribuam para minha evolução. Tenho disponibilidade e flexibilidade de horários, além de facilidade para lidar com mudanças de prioridades, imprevistos e prazos, mantendo o foco, a organização e o compromisso com as entregas.
+  Sou organizada, proativa e adaptável, com facilidade para aprender, iniciativa e disposição para colaborar. Tenho interesse em explorar novas tecnologias, conhecer diferentes ferramentas e descobrir novas formas de resolver problemas por meio de projetos que me desafiem e contribuam para a minha evolução. Tenho disponibilidade e flexibilidade de horários, além de facilidade para lidar com mudanças de prioridade, imprevistos e prazos, mantendo o foco, a organização e o compromisso com as entregas.
 </p>
 
 <h2 align="left">Stack</h2>
