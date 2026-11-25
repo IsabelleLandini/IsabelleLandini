@@ -86,7 +86,7 @@
         <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
       </a>
       <a href="https://portal-viagens-nextjs.vercel.app/">
-        <img src="https://img.shields.io/badge/Demo-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Demo">
+        <a href="https://portal-viagens-nextjs.vercel.app/"><img src="https://img.shields.io/badge/Demo-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Demo"></a>
       </a>
     </td>
   </tr>
