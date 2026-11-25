@@ -1,15 +1,14 @@
-
 <div align="center">
   <a href="README.md">
-    <img src="https://flagcdn.com/w40/br.png" width="24" alt="Português">
+    <img src="https://flagcdn.com/w40/br.png" width="20" alt="Português" style="border: 0;">
   </a>
   &nbsp;&nbsp;
   <a href="README.en.md">
-    <img src="https://flagcdn.com/w40/us.png" width="24" alt="English">
+    <img src="https://flagcdn.com/w40/us.png" width="20" alt="English" style="border: 0;">
   </a>
   &nbsp;&nbsp;
   <a href="README.fr.md">
-    <img src="https://flagcdn.com/w40/fr.png" width="24" alt="Français">
+    <img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français" style="border: 0;">
   </a>
 </div>
 
@@ -66,41 +65,41 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Books API</strong>
-      <p>API REST de gestion de livres avec authentification HTTP Basic, cache Redis, tâches asynchrones avec Celery et messagerie Kafka.</p>
-      <p>Python · FastAPI · SQLAlchemy · Redis · Celery · Kafka</p>
-      <a href="https://github.com/IsabelleLandini/books-api-fastapi">
-        <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
-      </a>
+        <strong>Books API</strong>
+        <p>API REST de gestion de livres avec authentification HTTP Basic, cache Redis, tâches asynchrones avec Celery et messagerie Kafka.</p>
+        <p>Python · FastAPI · SQLAlchemy · Redis · Celery · Kafka</p>
+        <a href="https://github.com/IsabelleLandini/books-api-fastapi">
+            <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
+        </a>
     </td>
     <td width="50%" valign="top">
-      <strong>Focus API</strong>
-      <p>API permettant d'enregistrer des sessions de concentration, de calculer des indicateurs et de générer des retours automatiques à partir de règles métier.</p>
-      <p>Python · FastAPI · SQLAlchemy · SQLite · Pydantic · Pytest</p>
-      <a href="https://github.com/IsabelleLandini/api-foco-produtividade">
-        <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
-      </a>
+        <strong>Focus API</strong>
+        <p>API permettant d'enregistrer des sessions de concentration, de calculer des indicateurs et de générer des retours automatiques à partir de règles métier.</p>
+        <p>Python · FastAPI · SQLAlchemy · SQLite · Pydantic · Pytest</p>
+        <a href="https://github.com/IsabelleLandini/api-foco-produtividade">
+            <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
+        </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Tasks API</strong>
-      <p>API REST avec opérations CRUD, authentification HTTP Basic et persistance des données avec SQLite.</p>
-      <p>Python · FastAPI · SQLAlchemy · Pydantic · Docker Compose</p>
-      <a href="https://github.com/IsabelleLandini/api-tarefas-fastapi">
-        <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
-      </a>
+        <strong>Tasks API</strong>
+        <p>API REST avec opérations CRUD, authentification HTTP Basic et persistance des données avec SQLite.</p>
+        <p>Python · FastAPI · SQLAlchemy · Pydantic · Docker Compose</p>
+        <a href="https://github.com/IsabelleLandini/api-tarefas-fastapi">
+            <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
+        </a>
     </td>
     <td width="50%" valign="top">
-      <strong>Portail de voyages</strong>
-      <p>Projet frontend complémentaire permettant de découvrir des destinations touristiques à travers des listes et des pages de détails.</p>
-      <p>Next.js · React · TypeScript · CSS Modules</p>
-      <a href="https://github.com/IsabelleLandini/portal-viagens-nextjs">
-        <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
-      </a>
-      <a href="https://portal-viagens-nextjs.vercel.app/">
-        <img src="https://img.shields.io/badge/Demo-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Démo">
-      </a>
+        <strong>Portail de voyages</strong>
+        <p>Projet frontend complémentaire permettant de découvrir des destinations touristiques à travers des listes et des pages de détails.</p>
+        <p>Next.js · React · TypeScript · CSS Modules</p>
+        <a href="https://github.com/IsabelleLandini/portal-viagens-nextjs">
+            <img src="https://img.shields.io/badge/GitHub-171421?style=flat-square&logo=github&logoColor=B58AEF" alt="GitHub">
+        </a>
+        <a href="https://portal-viagens-nextjs.vercel.app/">
+            <img src="https://img.shields.io/badge/Demo-171421?style=flat-square&logo=vercel&logoColor=B58AEF" alt="Demo">
+        </a>
     </td>
   </tr>
 </table>
