@@ -1,15 +1,9 @@
 <div align="center">
-  <a href="README.md">
-    <img src="https://flagcdn.com/w40/br.png" width="20" alt="Português" style="border: 0;">
-  </a>
+  <a href="README.md"><img src="https://flagcdn.com/w40/br.png" width="24" alt="Português"></a>
   &nbsp;&nbsp;
-  <a href="README.en.md">
-    <img src="https://flagcdn.com/w40/us.png" width="20" alt="English" style="border: 0;">
-  </a>
+  <a href="README.en.md"><img src="https://flagcdn.com/w40/us.png" width="24" alt="English"></a>
   &nbsp;&nbsp;
-  <a href="README.fr.md">
-    <img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français" style="border: 0;">
-  </a>
+  <a href="README.fr.md"><img src="https://flagcdn.com/w40/fr.png" width="24" alt="Français"></a>
 </div>
 
 <div align="center">

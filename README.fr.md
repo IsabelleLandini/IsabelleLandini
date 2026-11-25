@@ -1,40 +1,23 @@
 <div align="center">
-  <a href="README.md">
-    <img src="https://flagcdn.com/w40/br.png" width="20" alt="Português" style="border: 0;">
-  </a>
+  <a href="README.md"><img src="https://flagcdn.com/w40/br.png" width="24" alt="Português"></a>
   &nbsp;&nbsp;
-  <a href="README.en.md">
-    <img src="https://flagcdn.com/w40/us.png" width="20" alt="English" style="border: 0;">
-  </a>
+  <a href="README.en.md"><img src="https://flagcdn.com/w40/us.png" width="24" alt="English"></a>
   &nbsp;&nbsp;
-  <a href="README.fr.md">
-    <img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français" style="border: 0;">
-  </a>
+  <a href="README.fr.md"><img src="https://flagcdn.com/w40/fr.png" width="24" alt="Français"></a>
 </div>
 
-<h1 align="center">Salut 👋🏻 Je suis Isabelle Landini</h1>
-
-<p align="center">
-  <strong>Développeuse Backend Python Junior</strong>
-</p>
-
-<p align="center">
-  📍 Guaratinguetá - São Paulo, Brésil
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/isabellelandini/">
-    <img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:isa_landini@hotmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://isabellelandini-portfolio.vercel.app/">
-    <img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfolio">
-  </a>
-</p>
+<div align="center">
+    <h1 align="center">Salut 👋🏻 Je suis Isabelle Landini</h1>
+    <p align="center">
+    <strong>Développeuse Backend Python Junior</strong>
+    </p>
+    <p align="center">📍 Guaratinguetá - São Paulo, Brésil</p>
+    <a href="https://www.linkedin.com/in/isabellelandini/"><img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="20" alt="LinkedIn"></a>
+    &nbsp;&nbsp;
+    <a href="mailto:isa_landini@hotmail.com"><img src="https://img.icons8.com/ios-filled/50/808080/new-post.png" width="20" alt="E-mail"></a>
+    &nbsp;&nbsp;
+    <a href="https://isabellelandini-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/808080/monitor.png" width="20" alt="Portfolio"></a>
+</div>
 
 <h2 align="left">À propos de moi</h2>
 
